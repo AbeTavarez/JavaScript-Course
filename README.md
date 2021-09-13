@@ -8,7 +8,7 @@ Beginners JavaScript Course
 ## What's JavaScript?
 
 - `JavaScript (JS)` is a high level programming language. 
-- JS used to add functionality to websites, create web applications, create server-side applications, create mobile and desktop applications, and more!
+- JS is used to add functionality to websites, create web applications, create server-side applications, create mobile and desktop applications, and more!
 
 ## How do we get JavaScript?
 
@@ -25,27 +25,15 @@ These are the tools we'll be using on this course:
 - Chrome Browser (https://www.google.com/chrome/)
 - MDN Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
+Windows Users ONLY!
+- GitBash (https://git-scm.com/downloads)
 
 ## Notes
 
 ### JavaScript Primitive Types
-- Number
-`
-var num = 11;
-`
-- String
-`
-var name = 'Abraham';
-`
-- Boolean
-`
-var readyToLearn = true;
-`
-- Null
-`
-var noValue = null;
-`
-- Undefined
-`
-var notFound = undefined;
-`
+
+- Number `let num = 11;`
+- String `let name = 'Abraham';`
+- Boolean `let readyToLearn = true;`
+- Null `let noValue = null;`
+- Undefined `let notFound = undefined;`
