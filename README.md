@@ -13,4 +13,4 @@ Beginners JavaScript Course
 
 - JavaScript is native to web browsers, meaning JavaScript is already in any browser. 
 - We also would like to run JavaScript out side the browser, therefore we'll install NodeJS.
-- NodeJS is an open source server environment that can run on multiple platforms (Windows, Linux, Mac, Unix, and more...).
+- NodeJS is an open source server environment that can run on multiple platforms (Windows, Linux, Mac, Unix, and more...)
