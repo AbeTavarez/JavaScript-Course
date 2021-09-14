@@ -7,13 +7,13 @@ Beginners JavaScript Course
 
 ## What's JavaScript?
 
-- JavaScript or JS for short is a high level programming language. 
-- JS is used to add functionality to websites, create web applications, create server-side applications, create mobile and desktop applications, and more!
+- JavaScript or JS for short, is a high level programming language. 
+- JS is used to add functionality to websites or web applications, create server-side applications, mobile and desktop applications, and more!
 
 ## How do we get JavaScript?
 
-- JavaScript is native to web browsers, meaning all browsers already JavaScript in them. 
-- We also would like to run JavaScript outside the browser, therefore we'll install NodeJS.
+- JavaScript is native to web browsers, meaning all browsers already have JavaScript in them. 
+- We also would like to run JavaScript outside the browser right?, therefore we'll install NodeJS.
 - NodeJS is a JavaScript runtime environment. This environment (NodeJS), allows you to run JavaScript on multiple platforms like Windows, Linux, Mac, Unix, and more...
 
 ## Setup
