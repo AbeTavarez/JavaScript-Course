@@ -1,25 +1,24 @@
 # JavaScript-Course
+
 Beginners JavaScript Course
 
+# Section 1: Introduction To JavaScript 
 
-
-# Introduction To JavaScript
-
-## What's JavaScript?
+### What's JavaScript?
 
 - JavaScript or JS for short, is a high level programming language. 
-- JS is used to add functionality to websites or web applications, create server-side applications, mobile and desktop applications, and more!
+- JS is used to add functionality to websites or web applications, create server-side applications, mobile apps, desktop applications, and more!
 - For the first part of this course we'll be working with HTML, CSS and JavaScript to create web applications.  
 
-## How do we get JavaScript?
+### How do we get JavaScript?
 
 - JavaScript is native to web browsers, meaning all browsers already have JavaScript in them. 
 - We also would like to run JavaScript outside the browser right?, therefore we'll install NodeJS.
-- NodeJS is a JavaScript runtime environment. This environment (NodeJS), allows you to run JavaScript on multiple platforms like Windows, Linux, Mac, Unix, and more...
+- NodeJS is a JavaScript runtime environment. This environment (NodeJS), allows you to run JavaScript outside the browser on multiple platforms like Windows, Linux, Mac, Unix, and more...
 
-## Setup
+### Setup
 
-These are the tools we'll be using on this course, please go ahead and install these tools:
+These are the tools we'll be using on this course, please go ahead and install these FREE/Open Source tools:
 
 - NodeJS (https://nodejs.org/en/download/)
 - VS Code Editor (https://code.visualstudio.com/download)
@@ -30,7 +29,7 @@ Windows Users ONLY!
 
 - GitBash (https://git-scm.com/downloads)
 
-# Next Step: Intro to the Chrome Browser -> Dev Tools
+## Next Step: Intro to the Chrome Browser -> Dev Tools
 
  - Open your Chrome Browser and navigate to any website, I'll navigate to developer.mozilla.org
  - Open the dev tools by right clicking anywhere and click Inspect at the bottom of the menu.
@@ -43,21 +42,31 @@ Windows Users ONLY!
     5. Application -> this tab allows you to work with all other resources that are loaded from this application, this tab is a bit advance but we'll get here later.
 
 
-# Next Step: Intro to VS Code 
+## Next Step: Intro to VS Code 
 
-## HTML and Live Server
+  - Create a new Folder for our course.
+  - Open the new folder with VS Code.
+  - Create a new folder -> Intro.
+  - Create a HTML Template file inside our new Intro folder.
+  - Install Live Server.
+  - Create and add a CSS file inside our new Intro folder.
+    - add some CSS
+  - Create and add a Javascript file inside our new Intro folder.
+    - run some JavaScript
 
 
 
-# Next Step: Intro to the Terminal, Git and GitHub
+## Next Step: Intro to the Terminal, Git and GitHub
+
+ - Open a new terminal.
+ - Initiate Git.
+ - Create a Github Account and Repository.
+ - Add, Commit and Push.
+ - Look at our first Github commit/contribution!
 
 
+ # Section 2: Writing JavaScript Code!
 
-
-
-
-
-## Notes
 
 ### JavaScript Primitive Types
 
@@ -71,8 +80,6 @@ Windows Users ONLY!
 
 - Array
 - Object
-
-
 
 
 # Other Links
