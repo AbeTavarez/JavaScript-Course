@@ -9,6 +9,7 @@ Beginners JavaScript Course
 
 - JavaScript or JS for short, is a high level programming language. 
 - JS is used to add functionality to websites or web applications, create server-side applications, mobile and desktop applications, and more!
+- For the first part of this course we'll be working with HTML, CSS and JavaScript to create web applications.  
 
 ## How do we get JavaScript?
 
@@ -28,17 +29,3 @@ These are the tools we'll be using on this course:
 Windows Users ONLY!
 - GitBash (https://git-scm.com/downloads)
 
-## Notes
-
-### JavaScript Primitive Types
-
-- Number `let num = 11;`
-- String `let name = 'Abraham';`
-- Boolean `let readyToLearn = true;`
-- Null `let noValue = null;`
-- Undefined `let notFound = undefined;`
-
-### JavaScript Reference Types
-
-- Array
-- Object
