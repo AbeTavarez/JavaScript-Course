@@ -19,13 +19,46 @@ Beginners JavaScript Course
 
 ## Setup
 
-These are the tools we'll be using on this course:
+These are the tools we'll be using on this course, please go ahead and install these tools:
 
 - NodeJS (https://nodejs.org/en/download/)
 - VS Code Editor (https://code.visualstudio.com/download)
 - Chrome Browser (https://www.google.com/chrome/)
-- MDN Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- Git (https://git-scm.com/downloads)
 
 Windows Users ONLY!
+
 - GitBash (https://git-scm.com/downloads)
 
+# Next Step: Intro to Chrome Browser and Dev Tools
+
+
+
+# Next Step: Intro to VS Code 
+
+## HTML and Live Server
+
+
+
+# Next Step: Intro to the Terminal, Git and GitHub
+
+
+
+
+
+
+
+## Notes
+
+### JavaScript Primitive Types
+
+- Number `let num = 11;`
+- String `let name = 'Abraham';`
+- Boolean `let readyToLearn = true;`
+- Null `let noValue = null;`
+- Undefined `let notFound = undefined;`
+
+### JavaScript Reference Types
+
+- Array
+- Object
