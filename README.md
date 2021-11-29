@@ -20,7 +20,7 @@ Beginners JavaScript Course
 
 These are the tools we'll be using on this course, please go ahead and install these FREE/Open Source tools:
 
- 🎥 [Watch how to install these tools!](https://www.youtube.com/watch?v=vb9-Q1E0yZU)
+ 🎥 [Watch a video on how to install these tools!](https://www.youtube.com/watch?v=vb9-Q1E0yZU)
 
 - Git (https://git-scm.com/downloads)
   - Note: If you're using Windows you will also get the GitBash Terminal installed together with GIT.
@@ -57,7 +57,27 @@ These are the tools we'll be using on this course, please go ahead and install t
   - Create and add a Javascript file inside our new Intro folder.
     - run some JavaScript
 
+## Next Step: Basic Terminal Commands
 
+In this section we'll learn some of the basic terminal commands.
+
+These commands are compose of the commands itself, any options, and argument.
+
+Examples:
+
+  Here is a commands with no options just the command and the argument:
+    cd Desktop
+
+  Here is a command with an option and argument.
+    ls -l Desktop 
+ 
+🎥 [Watch a video on how to start using the terminal!](https://www.youtube.com/watch?v=kqYoE5jVF4U)
+
+  Here is a list of the commands we'll be using in the upcoming sections:
+  
+  Command | Meaning | Example
+  | :--- | :---
+  cd | change directory | cd Desktop
 
 ## Next Step: Intro to the Terminal, Git and GitHub
 
