@@ -66,10 +66,10 @@ These commands are compose of the commands itself, any options, and argument.
 Examples:
 
   Here is a commands with no options just the command and the argument:
-    * cd Desktop
+    __cd Desktop
 
   Here is a command with an option and argument:
-    * ls -l Desktop 
+    __ls -l Desktop 
  
 🎥 [Watch a video on how to start using the terminal!](https://www.youtube.com/watch?v=kqYoE5jVF4U)
 
