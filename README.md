@@ -20,7 +20,7 @@ Beginners JavaScript Course
 
 These are the tools we'll be using on this course, please go ahead and install these FREE/Open Source tools:
 
- 🎥 [Watch how to install these tools](https://www.youtube.com/watch?v=vb9-Q1E0yZU)
+ 🎥 [Watch how to install these tools!](https://www.youtube.com/watch?v=vb9-Q1E0yZU)
 
 - Git (https://git-scm.com/downloads)
   - Note: If you're using Windows you will also get the GitBash Terminal installed together with GIT.
@@ -34,7 +34,7 @@ These are the tools we'll be using on this course, please go ahead and install t
  - Open the dev tools by right clicking anywhere and click Inspect at the bottom of the menu.
  - Now that we have our dev tools open let's look at all some of the different tabs we have available: 
 
-    1. Elements -> this tab allows you to view and work with the HTML and CSS of the current page.
+1. Elements -> this tab allows you to view and work with the HTML and CSS of the current page.
     2. Console -> this tab allows you to run JavaScript code. We'll be using it a lot!
     3. Sources -> this tab allows you to debug run and save snippets of JavaScript.
     4. Network -> this tab allows you to view and debug network activities.
