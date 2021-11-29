@@ -60,16 +60,15 @@ These are the tools we'll be using on this course, please go ahead and install t
 ## Next Step: Basic Terminal Commands
 
 In this section we'll learn some of the basic terminal commands.
-
 These commands are compose of the commands itself, any options, and argument.
 
-Examples:
+  Examples:
 
-  Here is a commands with no options just the command and the argument:
-    __cd Desktop
+    Here is a commands with no options just the command and the argument:
+      __cd Desktop
 
-  Here is a command with an option and argument:
-    __ls -l Desktop 
+    Here is a command with an option and argument:
+      __ls -l Desktop 
  
 🎥 [Watch a video on how to start using the terminal!](https://www.youtube.com/watch?v=kqYoE5jVF4U)
 
