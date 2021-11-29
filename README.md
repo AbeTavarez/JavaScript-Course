@@ -20,14 +20,11 @@ Beginners JavaScript Course
 
 These are the tools we'll be using on this course, please go ahead and install these FREE/Open Source tools:
 
+- Git (https://git-scm.com/downloads)
+Note: If you're using Windows you will also get the GitBash Terminal installed together with GIT.
 - NodeJS (https://nodejs.org/en/download/)
 - VS Code Editor (https://code.visualstudio.com/download)
 - Chrome Browser (https://www.google.com/chrome/)
-- Git (https://git-scm.com/downloads)
-
-Windows Users ONLY!
-
-- GitBash (https://git-scm.com/downloads)
 
 ## Next Step: Intro to the Chrome Browser -> Dev Tools
 
