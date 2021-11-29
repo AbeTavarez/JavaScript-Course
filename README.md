@@ -80,6 +80,8 @@ Examples:
   pwd | print working directory | pwd
   cd | change directory | cd Desktop
   ls | list content | ls or ls [directory name]
+  mkdir | make directory | mkdir [new directory name]
+  touch | create file | touch [new file name]
 
 ## Next Step: Intro to the Terminal, Git and GitHub
 
