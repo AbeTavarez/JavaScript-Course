@@ -79,7 +79,7 @@ Examples:
   | :--- | :--- | :---
   pwd | print working directory | pwd
   cd | change directory | cd Desktop
-  ls | list content | ls or ls <directory name>
+  ls | list content | ls or ls [directory name]
 
 ## Next Step: Intro to the Terminal, Git and GitHub
 
