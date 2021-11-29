@@ -23,7 +23,7 @@ These are the tools we'll be using on this course, please go ahead and install t
  🎥 [Watch how to install these tools](https://www.youtube.com/watch?v=vb9-Q1E0yZU)
 
 - Git (https://git-scm.com/downloads)
-Note: If you're using Windows you will also get the GitBash Terminal installed together with GIT.
+ - Note: If you're using Windows you will also get the GitBash Terminal installed together with GIT.
 - NodeJS (https://nodejs.org/en/download/)
 - VS Code Editor (https://code.visualstudio.com/download)
 - Chrome Browser (https://www.google.com/chrome/)
