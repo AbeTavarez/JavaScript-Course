@@ -76,7 +76,7 @@ Examples:
   Here is a list of the commands we'll be using in the upcoming sections:
   
   Command | Meaning | Example
-  | :--- | :---
+  | :--- | :--- | :---
   cd | change directory | cd Desktop
 
 ## Next Step: Intro to the Terminal, Git and GitHub
