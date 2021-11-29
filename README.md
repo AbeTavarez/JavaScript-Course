@@ -35,10 +35,14 @@ These are the tools we'll be using on this course, please go ahead and install t
  - Now that we have our dev tools open let's look at all some of the different tabs we have available: 
 
 1. Elements -> this tab allows you to view and work with the HTML and CSS of the current page.
-    2. Console -> this tab allows you to run JavaScript code. We'll be using it a lot!
-    3. Sources -> this tab allows you to debug run and save snippets of JavaScript.
-    4. Network -> this tab allows you to view and debug network activities.
-    5. Application -> this tab allows you to work with all other resources that are loaded from this application, this tab is a bit advance but we'll get here later.
+
+2. Console -> this tab allows you to run JavaScript code. We'll be using it a lot!
+
+3. Sources -> this tab allows you to debug run and save snippets of JavaScript.
+
+4. Network -> this tab allows you to view and debug network activities.
+
+5. Application -> this tab allows you to work with all other resources that are loaded from this application, this tab is a bit advance but we'll get here later.
 
 
 ## Next Step: Intro to VS Code 
