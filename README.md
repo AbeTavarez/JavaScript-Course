@@ -1,4 +1,6 @@
-# JavaScript-Course
+# Learning JavaScript
+
+![course-logo](https://abe-assets-cloud.s3.us-east-2.amazonaws.com/Blue+White+Game+Channel+Youtube+Channel+Art.png)
 
 Beginners JavaScript Course
 
@@ -81,6 +83,8 @@ These commands are compose of the commands itself, any options, and argument.
   ls | list content | ls or ls [directory name]
   mkdir | make directory | mkdir [new directory name]
   touch | create file | touch [new file name]
+
+  Here is a [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Next Step: Intro to the Terminal, Git and GitHub
 
