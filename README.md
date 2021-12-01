@@ -18,7 +18,7 @@ Beginners JavaScript Course
 - We also would like to run JavaScript outside the browser right?, therefore we'll install NodeJS.
 - NodeJS is a JavaScript runtime environment. This environment (NodeJS), allows you to run JavaScript outside the browser on multiple platforms like Windows, Linux, Mac, Unix, and more...
 
-### Setup
+# Section 2: Installfest | Setup
 
 These are the tools we'll be using on this course, please go ahead and install these FREE/Open Source tools:
 
@@ -78,11 +78,12 @@ These commands are compose of the commands itself, any options, and argument.
   
   Command | Meaning | Example
   | :--- | :--- | :---
-  pwd | print working directory | pwd
-  cd | change directory | cd Desktop
-  ls | list content | ls or ls [directory name]
-  mkdir | make directory | mkdir [new directory name]
-  touch | create file | touch [new file name]
+  pwd    | print working directory | pwd
+  cd     | change directory | cd Desktop
+  ls     | list content | ls or ls [directory name]
+  mkdir  | make directory | mkdir [new directory name]
+  touch  | create file | touch [new file name]
+  code   | opens directory with VS Code | code .
 
   Here is a [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
@@ -95,7 +96,7 @@ These commands are compose of the commands itself, any options, and argument.
  - Look at our first Github commit/contribution!
 
 
- # Section 2: Writing JavaScript Code!
+ # Section 3: Writing JavaScript Code!
 
 
 ### JavaScript Primitive Types
